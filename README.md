@@ -65,7 +65,7 @@ Welcome
     <div class="container">
         <section id="about" class="section">
             <h2>About Me</h2>
-            <p>Hello, I'm Milos Zivkovic Mickey, Resort Experiences Manager at the Hyatt Regency Phuket Resort. With over a decade of experience in the hospitality industry, I specialize in creating unique and extraordinary activities for hotels and resorts. My expertise spans across various departments including Sport & Recreation, Spa, Front Office, and Food & Beverage. I'm passionate about marine conservation and philanthropy, constantly looking for ways to contribute positively to the community.</p>
+            <p>Hello, I'm Milos Zivkovic Mickey, currently Resort Experiences Manager at the Hyatt Regency Phuket Resort. With over a decade of experience in the hospitality industry, I specialize in creating unique and extraordinary activities for hotels and resorts. My expertise spans across various departments including Sport & Recreation, Spa, Front Office, and Food & Beverage. I'm passionate about marine conservation and philanthropy, constantly looking for ways to contribute positively to the community.</p>
         </section>
         <section id="experience" class="section">
             <h2>Professional Experience</h2>
