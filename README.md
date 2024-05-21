@@ -53,7 +53,7 @@ Welcome
 <body>
     <header>
         <h1>Milos Zivkovic Mickey </h1>
-        <p>Resort Experience Manager Specialist </p>
+        <p>Resort Experience Specialist </p>
     </header>
     <nav>
         <a href="#about">About Me</a>
