@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mickey Zivkovic | Professional Profile</title>
+    <title>Milos Zivkovic Mickey | Professional Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -92,7 +92,7 @@
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Mickey Zivkovic. All rights reserved.</p>
+        <p>&copy; 2024 Milos Zivkovic Mickey. All rights reserved.</p>
     </footer>
 </body>
 </html>
