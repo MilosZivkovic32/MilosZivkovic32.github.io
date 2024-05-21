@@ -79,7 +79,7 @@
             </ul>
         </section>
         <section id="marine" class="section">
-            <h2>Marine Biologist Center</h2>
+            <h2>Marine Biological Center</h2>
             <p>At the Marine Biological Center, we aim to educate guests about local marine life and conservation efforts. Our workshops and educational packages are designed for different age groups, making them suitable for families. Join us in our mission to preserve marine biodiversity and learn how you can contribute to this vital cause.</p>
         </section>
         <section id="philanthropy" class="section">
