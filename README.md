@@ -88,7 +88,7 @@
         </section>
         <section id="contact" class="section">
             <h2>Contact</h2>
-            <p>If you'd like to get in touch, feel free to reach out via email at <a href="mailto:mickey@example.com">mickey@example.com</a> or connect with me on LinkedIn.</p>
+            <p>If you'd like to get in touch, feel free to reach out via email at <a href="mailto:miloszivkovicth@gmail.com">miloszivkovicth@gmail.com</a> or connect with me on LinkedIn.</p>
         </section>
     </div>
     <footer>
