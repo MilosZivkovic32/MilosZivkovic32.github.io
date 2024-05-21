@@ -88,7 +88,7 @@ Welcome
         </section>
         <section id="contact" class="section">
             <h2>Contact</h2>
-            <p>If you'd like to get in touch, feel free to reach out via email at <a href="mailto:miloszivkovicth@gmail.com">miloszivkovicth@gmail.com</a> oor connect with me on <a href="https://www.linkedin.com/in/miloszivkovic32/" target="_blank">LinkedIn</a>.</p>
+            <p>If you'd like to get in touch, feel free to reach out via email at <a href="mailto:miloszivkovicth@gmail.com">miloszivkovicth@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/miloszivkovic32/" target="_blank">LinkedIn</a>.</p>
         </section>
     </div>
     <footer>
