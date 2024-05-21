@@ -52,8 +52,8 @@
 </head>
 <body>
     <header>
-        <h1>Mickey Zivkovic</h1>
-        <p>Resort Experiences Manager at Hyatt Regency Phuket Resort</p>
+        <h1>Milos Zivkovic Mickey </h1>
+        <p>Resort Experience Manager Specialist </p>
     </header>
     <nav>
         <a href="#about">About Me</a>
